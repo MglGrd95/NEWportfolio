@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NEWportfolio/static/css/main.3347266f.css",
+    "main.js": "/NEWportfolio/static/js/main.5fb50cdd.js",
+    "static/media/rubino.PNG": "/NEWportfolio/static/media/rubino.6b2c5d77f678fdd8d6c6.PNG",
+    "static/media/degree.jpg": "/NEWportfolio/static/media/degree.31042af44bc7f66e9976.jpg",
+    "static/media/front.jpg": "/NEWportfolio/static/media/front.96ab796d526dac84483a.jpg",
+    "static/media/portfolio.PNG": "/NEWportfolio/static/media/portfolio.4bfdfa9762016e496e0a.PNG",
+    "static/media/flowershop.PNG": "/NEWportfolio/static/media/flowershop.10988b9f26228f9d1056.PNG",
+    "static/media/bike.PNG": "/NEWportfolio/static/media/bike.07b6e98a73601866f364.PNG",
+    "static/media/LinkInd.png": "/NEWportfolio/static/media/LinkInd.66ffd29ac1bb3de67249.png",
+    "static/media/background1.jpg": "/NEWportfolio/static/media/background1.faf592df968f8cefea6a.jpg",
+    "static/media/resume.png": "/NEWportfolio/static/media/resume.cd077b449182a5167c77.png",
+    "static/media/Github.png": "/NEWportfolio/static/media/Github.3c672c66b8ddd781201f.png",
+    "static/media/servicenow.png": "/NEWportfolio/static/media/servicenow.09bb3e86b9443ea758ac.png",
+    "index.html": "/NEWportfolio/index.html",
+    "main.3347266f.css.map": "/NEWportfolio/static/css/main.3347266f.css.map",
+    "main.5fb50cdd.js.map": "/NEWportfolio/static/js/main.5fb50cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3347266f.css",
+    "static/js/main.5fb50cdd.js"
+  ]
+}
