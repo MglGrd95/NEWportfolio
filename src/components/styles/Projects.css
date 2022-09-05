@@ -47,6 +47,9 @@
 }
 
 @media only screen and (max-width: 2200px) {
+    .projects h1 {
+        margin-top: 20rem;
+    }
     .project {
         margin-left: 1rem;
     }
