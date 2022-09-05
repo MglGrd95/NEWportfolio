@@ -13,7 +13,7 @@ const Projects = () => {
         <ul>
         <li><img src={Port} alt='portfolio' className='proimg'/>
           My Portfolio
-          <div className='prolinks' id='portfolio'><a href='https://github.com/MglGrd95/Portfolio' >Source Code</a></div>
+          <div className='prolinks' id='portfolio'><a href='https://github.com/MglGrd95/NEWportfolio' >Source Code</a></div>
           </li>
           <li><img src={Flower} alt='Flower' className='proimg'/>
           Flower Website
