@@ -51,17 +51,17 @@
         margin-top: 20rem;
     }
     .project {
-        margin-left: 1rem;
+        margin-left: 15rem;
     }
     .project ul {
-        gap: 1rem;
+        gap: 5rem;
     }
     .project li {
-        width: 290px;
+        width: 330px;
         height: 300px;
     }
     .proimg {
-        width: 250px;
+        width: 295px;
         height: 200px;
     }
     .project a {
