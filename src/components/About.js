@@ -3,13 +3,12 @@ import './styles/About.css'
 import {SiJavascript, SiHtml5, SiCss3, SiReact, SiNodedotjs, SiGit, SiAngularjs, SiGithub} from 'react-icons/si'
 import {AiFillApi} from 'react-icons/ai'
 import Servicenow from './images/servicenow.png'
-import Degree from './images/degree.jpg'
 
 const About = () => {
   return (
     <div className='about' id='About'>
       <h1>About Me</h1>
-        <p className='me'>Able to code web pages from the ground up using Html, CSS, 
+        <p className='me'>Able to develop web pages from the ground up using Html, CSS, 
           JavaScript, Node.js and the React framework.
         Fundamental understanding of Web design concepts, cross browser 
         development.
@@ -34,13 +33,6 @@ const About = () => {
             <li><SiAngularjs className='icon' id='angular'/>Angular.js</li>
             <li><img src={Servicenow} alt='servicenow' className='service'/>ServiceNow</li>
           </ul>
-      </div>
-      <div className='qualifications'>
-        <h3>Qualifications</h3>
-        <div>
-          <img src={Degree} alt='degree' className='degree' />
-          <h5>A.A.S in IT:Web Applications Programming</h5>
-        </div>
       </div>
     </div>
   )

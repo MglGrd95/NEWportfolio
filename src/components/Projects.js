@@ -19,6 +19,10 @@ const Projects = () => {
           Flower Website
           <div className='prolinks'><a href='https://mglgrd95.github.io/lilysflowershop/' >Website</a><a href='https://github.com/MglGrd95/lilysflowershop' >Source Code</a></div>
           </li>
+        </ul>
+      </div>
+      <div className='project'>
+      <ul>
           <li><img src={Bike} alt='Bike' className='proimg'/>
           Bike Website
           <div className='prolinks'><a href='https://mglgrd95.github.io/bikeshop/' >Website</a><a href='https://github.com/MglGrd95/bikeshop' >Source Code</a></div>
